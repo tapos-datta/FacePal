@@ -5,21 +5,21 @@ The application is built on two module
 - Facepal (client module)
 - Linker (server module)
 
-# Features
+## Features
 
 - Can be remotely accessed via IP-Camera.
 - Renders live streaming.
 - Keeps a separate log file.
 - Lists the entrants.
 
-# Tools 
+## Tools 
 
 - JavaFx2
 - OpenCV 3.1.0
 - Apache Tomcat 7.0
 - MySQL
 
-# Libraries
+## Libraries
 
 - Webcam-capture-0.3.10-RC7.jar
 - Javacpp-1.2.jar
@@ -28,14 +28,14 @@ The application is built on two module
 - Image-4j-0.7.jar
 - Javacv.jar
 
-# Developer
+## Developer
 
-Tapos Datta
+#### Tapos Datta
 
 	taposdatta2013@gmail.com
 	taposdatta@student.sust.edu
 	
-Bishwajit Purkaystha
+#### Bishwajit Purkaystha
 
 	bishwa420@gmail.com
 
