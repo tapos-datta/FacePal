@@ -1,0 +1,378 @@
+2017.54.26 11:54:26  Y = 2  value false
+2017.54.26 11:54:26  Y = 3  value Tapos
+2017.54.26 11:54:30  Y = 2  value false
+2017.54.26 11:54:30  Y = 3  value Tapos
+2017.01.26 11:58:38  Y = 2  value false
+2017.01.26 11:58:38  Y = 3  value Tapos
+2017.01.26 11:59:29  Y = 2  value false
+2017.01.26 11:59:29  Y = 3  value hayat
+2017.01.26 11:59:34  Y = 2  value false
+2017.01.26 11:59:34  Y = 3  value hayat
+2017.01.27 12:05:39  Y = 2  value false
+2017.01.27 12:05:39  Y = 3  value hayat
+2017.01.27 12:05:44  Y = 2  value false
+2017.01.27 12:05:44  Y = 3  value hayat
+2017.01.27 12:05:49  Y = 2  value false
+2017.01.27 12:05:49  Y = 3  value hayat
+2017.01.27 12:05:54  Y = 2  value false
+2017.01.27 12:05:54  Y = 3  value hayat
+2017.01.27 05:09:50  Y = 2  value false
+2017.01.27 05:09:50  Y = 3  value hayat
+2017.01.27 05:09:55  Y = 2  value false
+2017.01.27 05:09:55  Y = 3  value hayat
+2017.01.27 05:10:00  Y = 2  value false
+2017.01.27 05:10:00  Y = 3  value hayat
+2017.01.27 05:10:05  Y = 2  value false
+2017.01.27 05:10:05  Y = 3  value hayat
+2017.01.27 11:14:50  Y = 2  value false
+2017.01.27 11:14:50  Y = 3  value hayat
+2017.01.27 11:14:55  Y = 2  value false
+2017.01.27 11:14:55  Y = 3  value hayat
+2017.01.27 11:15:00  Y = 2  value false
+2017.01.27 11:15:00  Y = 3  value hayat
+2017.01.27 11:15:05  Y = 2  value false
+2017.01.27 11:15:05  Y = 3  value hayat
+2017.01.27 11:17:34  Y = 2  value false
+
+2017.01.27 11:17:34  Y = 3  value hayat
+
+2017.01.27 11:17:39  Y = 2  value false
+
+2017.01.27 11:17:39  Y = 3  value hayat
+
+2017.01.27 11:17:49  Y = 2  value false
+
+2017.01.27 11:17:49  Y = 3  value hayat
+
+2017.01.27 11:17:54  Y = 2  value false
+
+2017.01.27 11:17:54  Y = 3  value hayat
+
+2017.01.27 11:19:53  Y = 2  value false
+
+
+2017.01.27 11:19:53  Y = 3  value hayat
+
+
+2017.01.27 11:19:57  Y = 2  value false
+
+
+2017.01.27 11:19:57  Y = 3  value hayat
+
+
+2017.01.27 11:20:02  Y = 2  value false
+
+
+2017.01.27 11:20:02  Y = 3  value hayat
+
+
+2017.01.27 11:20:07  Y = 2  value false
+
+
+2017.01.27 11:20:07  Y = 3  value hayat
+
+
+2017.01.27 11:20:12  Y = 2  value false
+
+
+2017.01.27 11:20:12  Y = 3  value hayat
+
+
+2017.01.27 11:20:17  Y = 2  value false
+
+
+2017.01.27 11:20:17  Y = 3  value hayat
+
+
+2017.01.27 11:20:22  Y = 2  value false
+
+
+2017.01.27 11:20:22  Y = 3  value hayat
+
+
+2017.01.27 11:20:27  Y = 2  value false
+
+
+2017.01.27 11:20:27  Y = 3  value hayat
+
+
+2017.01.27 11:24:43   Y = 2  value false
+
+2017.01.27 11:24:43   Y = 3  value hayat
+
+2017.01.27 11:25:03   Y = 2  value false
+
+2017.01.27 11:25:03   Y = 3  value hayat
+
+2017.01.27 11:25:08   Y = 2  value false
+
+2017.01.27 11:25:08   Y = 3  value hayat
+
+2017.01.27 11:25:13   Y = 2  value false
+
+2017.01.27 11:25:13   Y = 3  value hayat
+
+2017.01.27 11:25:18   Y = 2  value false
+
+2017.01.27 11:25:18   Y = 3  value hayat
+
+2017.01.27 11:25:23   Y = 2  value false
+
+2017.01.27 11:25:23   Y = 3  value hayat
+
+2017.01.27 12:37:33   Y = 2  value true
+
+2017.01.27 12:37:33   Y = 3  value Tapos
+
+2017.01.27 12:37:48   Y = 2  value false
+
+2017.01.27 12:37:48   Y = 3  value Tapos
+
+2017.01.27 12:38:08   Y = 2  value false
+
+2017.01.27 12:38:08   Y = 3  value Tapos
+
+2017.01.27 12:38:13   Y = 2  value false
+
+2017.01.27 12:38:13   Y = 3  value hayat
+
+2017.01.27 12:38:18   Y = 2  value false
+
+2017.01.27 12:38:18   Y = 3  value hayat
+
+2017.01.27 12:38:23   Y = 2  value false
+
+2017.01.27 12:38:23   Y = 3  value hayat
+
+2017.01.27 12:38:28   Y = 2  value false
+
+2017.01.27 12:38:28   Y = 3  value hayat
+
+2017.01.27 12:38:58   Y = 2  value false
+
+2017.01.27 12:38:58   Y = 3  value Tapos
+
+2017.01.27 12:39:03   Y = 2  value false
+
+2017.01.27 12:39:03   Y = 3  value hayat
+
+2017.01.27 12:39:08   Y = 2  value false
+
+2017.01.27 12:39:08   Y = 3  value Tapos
+
+2017.01.27 12:39:13   Y = 2  value false
+
+2017.01.27 12:39:13   Y = 3  value hayat
+
+2017.01.27 12:39:48   Y = 2  value false
+
+2017.01.27 12:39:48   Y = 3  value hayat
+
+2017.01.27 12:44:54   Y = 2  value false
+
+2017.01.27 12:44:54   Y = 3  value hayat
+
+2017.01.27 12:44:59   Y = 2  value false
+
+2017.01.27 12:44:59   Y = 3  value hayat
+
+2017.01.27 12:45:39   Y = 2  value false
+
+2017.01.27 12:45:39   Y = 3  value Tapos
+
+2017.01.27 12:45:44   Y = 2  value false
+
+2017.01.27 12:45:44   Y = 3  value hayat
+
+2017.01.27 12:47:05   Y = 2  value false
+
+2017.01.27 12:47:05   Y = 3  value hayat
+
+2017.01.27 12:47:10   Y = 2  value false
+
+2017.01.27 12:47:10   Y = 3  value hayat
+
+2017.01.27 12:47:15   Y = 2  value false
+
+2017.01.27 12:47:15   Y = 3  value hayat
+
+2017.01.27 12:47:20   Y = 2  value false
+
+2017.01.27 12:47:20   Y = 3  value hayat
+
+2017.01.27 12:47:25   Y = 2  value false
+
+2017.01.27 12:47:25   Y = 3  value hayat
+
+2017.01.27 12:47:30   Y = 2  value false
+
+2017.01.27 12:47:30   Y = 3  value hayat
+
+2017.01.27 12:47:35   Y = 2  value false
+
+2017.01.27 12:47:35   Y = 3  value hayat
+
+2017.01.27 12:47:45   Y = 2  value false
+
+2017.01.27 12:47:45   Y = 3  value hayat
+
+2017.01.27 12:47:50   Y = 2  value false
+
+2017.01.27 12:47:50   Y = 3  value Tapos
+
+2017.01.27 12:47:55   Y = 2  value false
+
+2017.01.27 12:47:55   Y = 3  value hayat
+
+2017.01.27 12:48:05   Y = 2  value false
+
+2017.01.27 12:48:05   Y = 3  value hayat
+
+2017.01.27 12:48:10   Y = 2  value false
+
+2017.01.27 12:48:10   Y = 3  value Tapos
+
+2017.01.27 12:48:15   Y = 2  value false
+
+2017.01.27 12:48:15   Y = 3  value hayat
+
+2017.01.27 12:48:20   Y = 2  value false
+
+2017.01.27 12:48:20   Y = 3  value Tapos
+
+2017.01.27 12:48:25   Y = 2  value false
+
+2017.01.27 12:48:25   Y = 3  value Tapos
+
+2017.01.27 12:48:30   Y = 2  value false
+
+2017.01.27 12:48:30   Y = 3  value Tapos
+
+2017.01.27 12:48:50   Y = 2  value false
+
+2017.01.27 12:48:50   Y = 3  value Tapos
+
+2017.01.27 12:48:55   Y = 2  value false
+
+2017.01.27 12:48:55   Y = 3  value Tapos
+
+2017.01.27 12:49:00   Y = 2  value false
+
+2017.01.27 12:49:00   Y = 3  value Tapos
+
+2017.01.27 12:49:05   Y = 2  value false
+
+2017.01.27 12:49:05   Y = 3  value hayat
+
+2017.01.27 12:49:10   Y = 2  value false
+
+2017.01.27 12:49:10   Y = 3  value Tapos
+
+2017.01.27 12:49:15   Y = 2  value false
+
+2017.01.27 12:49:15   Y = 3  value Tapos
+
+2017.01.27 12:49:20   Y = 2  value false
+
+2017.01.27 12:49:20   Y = 3  value Tapos
+
+2017.01.27 12:49:25   Y = 2  value false
+
+2017.01.27 12:49:25   Y = 3  value hayat
+
+2017.01.27 12:49:30   Y = 2  value false
+
+2017.01.27 12:49:30   Y = 3  value hayat
+
+2017.01.27 12:49:35   Y = 2  value false
+
+2017.01.27 12:49:35   Y = 3  value hayat
+
+2017.01.27 12:49:40   Y = 2  value false
+
+2017.01.27 12:49:40   Y = 3  value hayat
+
+2017.01.27 12:49:45   Y = 2  value false
+
+2017.01.27 12:49:45   Y = 3  value hayat
+
+2017.01.27 12:49:50   Y = 2  value false
+
+2017.01.27 12:49:50   Y = 3  value hayat
+
+2017.01.27 12:50:00   Y = 2  value false
+
+2017.01.27 12:50:00   Y = 3  value hayat
+
+2017.01.27 12:50:05   Y = 2  value false
+
+2017.01.27 12:50:05   Y = 3  value hayat
+
+2017.01.27 12:50:10   Y = 2  value false
+
+2017.01.27 12:50:10   Y = 3  value hayat
+
+2017.01.27 12:50:15   Y = 2  value false
+
+2017.01.27 12:50:15   Y = 3  value hayat
+
+2017.01.27 12:50:30   Y = 2  value true
+
+2017.01.27 12:50:30   Y = 3  value Tapos
+
+2017.01.27 12:50:35   Y = 2  value false
+
+2017.01.27 12:50:35   Y = 3  value Tapos
+
+2017.01.27 12:50:45   Y = 2  value false
+
+2017.01.27 12:50:45   Y = 3  value Tapos
+
+2017.01.27 12:50:50   Y = 2  value false
+
+2017.01.27 12:50:50   Y = 3  value hayat
+
+2017.01.27 12:50:55   Y = 2  value false
+
+2017.01.27 12:50:55   Y = 3  value Tapos
+
+2017.01.27 12:51:00   Y = 2  value false
+
+2017.01.27 12:51:00   Y = 3  value Tapos
+
+2017.01.27 12:59:48   Y = 2  value false
+
+2017.01.27 12:59:48   Y = 3  value Tapos
+
+2017.01.28 08:10:04   Y = 2  value false
+
+2017.01.28 08:10:04   Y = 3  value hayat
+
+2017.01.28 08:10:09   Y = 2  value false
+
+2017.01.28 08:10:09   Y = 3  value hayat
+
+2017.01.28 08:10:13   Y = 2  value false
+
+2017.01.28 08:10:14   Y = 3  value hayat
+
+2017.01.28 08:10:18   Y = 2  value false
+
+2017.01.28 08:10:19   Y = 3  value hayat
+
+2017.01.28 08:10:23   Y = 2  value false
+
+2017.01.28 08:10:24   Y = 3  value hayat
+
+2017.01.28 08:10:28   Y = 2  value false
+
+2017.01.28 08:10:29   Y = 3  value hayat
+
+2017.01.28 08:10:33   Y = 2  value false
+
+2017.01.28 08:10:34   Y = 3  value hayat
+
+2017.01.28 08:10:38   Y = 2  value false
+
+2017.01.28 08:10:39   Y = 3  value hayat
+
