@@ -12,9 +12,8 @@ package com.demo;
 public class EmailConfiguration {
 
     public final String from = "starsopnil@gmail.com";
-   // public  String to = "taposdatta2013@gmail.com";
-    public final String username = "starsopnil@gmail.com";
-    public final String password = "01715175342";
+    public final String username = ""; // enter email address
+    public final String password = ""; // enter password of email
     public  String message ="";
     public final String subject = "FacePal Account";
     
